@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Playfair+Display&display=swap");
+
+:root {
+  --color-white: #fff;
+  --color-blue: #20247b;
+  --color-red: #fc5356;
+  --font-w: 700;
+  --color-dark: #595c5f;
+  --primary-font: "Playfair Display", serif;
+  --secondary-font: "IBM Plex Sans", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+body {
+  overflow-x: hidden !important;
+}
